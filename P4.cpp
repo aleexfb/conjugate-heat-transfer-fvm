@@ -1,5 +1,3 @@
-// clang++ -O3 -march=native P4.cpp -o C
-
 #include <iostream>
 #include <vector>
 #include <iomanip>
